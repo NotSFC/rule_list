@@ -13,7 +13,8 @@ echo "\
 Linux网络优化脚本
 
 官网: https://sh.sntp.uk
-上次更新: 2024-04-05
+上次更新: 2024-05-18
+二改私房菜
 
 Powered by SNTP
 
